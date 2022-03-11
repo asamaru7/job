@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
+#DaumWebMasterTool:8a828356845ba16306850df32cdd4a092a748f2abe255d98bdb2fe36d0c23fca:0/Lzlpxp6uKIPgX3sP1bPg==
+
 Sitemap: https://job.asamaru.net/sitemap.xml
