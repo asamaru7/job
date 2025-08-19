@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>직업백과</title>
+	<id>https://job.asamaru.net/</id>
+	<updated>2024-02-27T14:24:12+09:00</updated>
+	<subtitle>당신이 궁금한 세상의 다양한 직업의 세계</subtitle>
+	<link href="https://job.asamaru.net/" rel="alternate" type="text/html" />
+	<link href="https://job.asamaru.net/atom-all.xml" rel="self" type="application/atom+xml" />
+	<author>
+		<name>아사마루</name>
+		<uri>https://job.asamaru.net/</uri>
+		<email>asamaru@asamaru.net</email>
+	</author>
+</feed>

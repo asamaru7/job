@@ -1,0 +1,40 @@
+{
+	"name": "직업백과",
+	"short_name": "직업백과",
+	"description": "다양한 직업을 소개하고 준비과정, 전망, 직무, 관련학과, 관련자격증 등의 정보를 안내합니다.",
+	"start_url": "/",
+	"display": "minimal-ui",
+	"background_color": "#ffffff",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"src": "/img/icon/180.png",
+			"sizes": "180x180",
+			"type": "image/png"
+		},
+		{
+			"src": "/img/icon/76.png",
+			"sizes": "76x76",
+			"type": "image/png"
+		},
+		{
+			"src": "/img/icon/120.png",
+			"sizes": "120x120",
+			"type": "image/png"
+		},
+		{
+			"src": "/img/icon/152.png",
+			"sizes": "152x152",
+			"type": "image/png"
+		},
+		{
+			"src": "/maskable_icon_x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	],
+	"lang": "ko-KR",
+	"prefer_related_applications": false,
+	"theme_color": "#71bf44"
+}
